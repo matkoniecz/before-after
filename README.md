@@ -1,0 +1,1 @@
+[issues with potentially relevant content](https://github.com/matkoniecz/Krakow/issues?utf8=%E2%9C%93&q=label%3A%22przed+-+po%22) in my private issue tracker for listing reports made about various issues, primarily to a local goverment
