@@ -14,10 +14,10 @@ z poważaniem,
 Mateusz Konieczny
 
 # Przed
-![Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png](Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png)
+![Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png](Zalegalizowanie_wjazdu_rowerem_na_plac_przed_Galerią_Krakowską_-_początkowy.png)
 
 
 # Po
-![Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png](Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - nowy.png)
+![Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png](Zalegalizowanie_wjazdu_rowerem_na_plac_przed_Galerią_Krakowską_-_nowy.png)
 
-![Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png](Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - nowszy.png)
+![Zalegalizowanie wjazdu rowerem na plac przed Galerią Krakowską - początkowy.png](Zalegalizowanie_wjazdu_rowerem_na_plac_przed_Galerią_Krakowską_-_nowszy.png)
