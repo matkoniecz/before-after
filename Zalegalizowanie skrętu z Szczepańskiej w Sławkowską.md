@@ -9,6 +9,10 @@ lokalizacja: http://www.openstreetmap.org/?mlat=50.06286&mlon=19.93675#map=18/50
 Z poważaniem,
 Mateusz Konieczny
 
+# why it works now
+
+![Zalegalizowanie_skrętu_z_Szczepańskiej_w_Sławkowską_po.jpg](Zalegalizowanie_skrętu_z_Szczepańskiej_w_Sławkowską_po.jpg)
+
 # 0 underscore
 ![ZalegalizowanieSkrętuZSzczepańskiejWSławkowską.jpg](ZalegalizowanieSkrętuZSzczepańskiejWSławkowską.jpg)
 
