@@ -11,8 +11,8 @@ Mateusz Konieczny
 
 # Przed
 
-![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska_-_przed.png](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska_-_przed.png)
+![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-przed.png](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-przed.png)
 
 #Po
 
-![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska_-_po.jpg](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska_-_po.jpg)
+![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-po.jpg](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-po.jpg)
