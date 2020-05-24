@@ -13,6 +13,6 @@ Mateusz Konieczny
 
 ![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-przed.png](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-przed.png)
 
-#Po
+# Po
 
 ![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-po.jpg](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-po.jpg)
