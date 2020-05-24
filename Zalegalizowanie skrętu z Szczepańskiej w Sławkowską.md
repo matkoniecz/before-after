@@ -10,8 +10,7 @@ Z poważaniem,
 Mateusz Konieczny
 
 
-![ZalegalizowanieSkrętuZSzczepańskiejWSławkowską.jpg]
-(ZalegalizowanieSkrętuZSzczepańskiejWSławkowską.jpg)
+![ZalegalizowanieSkrętuZSzczepańskiejWSławkowską.jpg](ZalegalizowanieSkrętuZSzczepańskiejWSławkowską.jpg)
 
 # Wat
 
