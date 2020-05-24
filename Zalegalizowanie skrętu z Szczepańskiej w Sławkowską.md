@@ -9,6 +9,10 @@ lokalizacja: http://www.openstreetmap.org/?mlat=50.06286&mlon=19.93675#map=18/50
 Z poważaniem,
 Mateusz Konieczny
 
+
+![wtf_a.png](wtf_a.png)
+![wtf_b.jpg](wtf_b.jpg)
+
 # Przed
 
 ![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-przed.png](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-przed.png)
@@ -16,3 +20,4 @@ Mateusz Konieczny
 # Po
 
 ![Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-po.jpg](Zalegalizowanie_skretu_ z_Szczepanskiej_w_Slawkowska-po.jpg)
+
